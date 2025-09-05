@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHlKxLCfPvZVP2K-FELi6wraFLInIkzG4X-dFUqKwBA&s" group-title="Generalistas",RTP 1
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/71
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="" group-title="Generalistas",RTP 2
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHlKxLCfPvZVP2K-FELi6wraFLInIkzG4X-dFUqKwBA&s" group-title="Generalistas",RTP 2
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/117
 #EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RTP 3" tvg-logo="" group-title="Generalistas",RTP 3
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/113
