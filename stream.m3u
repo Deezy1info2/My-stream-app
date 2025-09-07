@@ -7,22 +7,22 @@ http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/306
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/135
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1 NL" tvg-logo="https://i.imgur.com/enjiTSK.png" group-title="Desporto",ESPN 1 HD NL
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/244
-#EXTINF:-1,ESPN 2 HD NL
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 NL" tvg-logo="https://i.imgur.com/H52LuJp.png" group-title="Desporto",ESPN 2 HD NL
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/12632
-#EXTINF:-1,ESPN 3 HD NL
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 NL" tvg-logo="https://i.imgur.com/DbuCbFv.png" group-title="Desporto",ESPN 3 HD NL
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/242
-#EXTINF:-1,Sky Sports Football HD UK
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football HD UK" tvg-logo="https://i.imgur.com/mTU5VJ1.png" group-title="Desporto",Sky Sports Football HD UK
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/6204
-#EXTINF:-1,Sky Sports Action HD UK
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action HD UK" tvg-logo="https://i.imgur.com/DbuCbFv.png" group-title="Desporto",Sky Sports Action HD UK
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/333
-#EXTINF:-1,Sky Sports Arena HD UK
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena HD UK" tvg-logo="https://i.imgur.com/QD0DFDs.png" group-title="Desporto",Sky Sports Arena HD UK
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/6201
-#EXTINF:-1,S Sports Mix HD UK
+#EXTINF:-1 tvg-id="" tvg-name="S Sports Mix HD UK" tvg-logo="https://i.imgur.com/7EzVlpe.png" group-title="Desporto",S Sports Mix HD UK
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/1821
-#EXTINF:-1,Sky Sports Premier League HD UK
+#EXTINF:-1 tvg-id="" tvg-name="S Sports Premier League HD UK" tvg-logo="https://i.imgur.com/rJdZpQw.png" group-title="Desporto",Sky Sports Premier League HD UK
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/331
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="" group-title="Desporto",TNT SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://i.imgur.com/fjrwkqw.png" group-title="Desporto",TNT SPORTS 1
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/317
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="" group-title="Desporto",TNT SPORTS 2
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/318
