@@ -13,7 +13,7 @@ http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/12632
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/242
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football HD UK" tvg-logo="https://i.imgur.com/mTU5VJ1.png" group-title="Desporto",Sky Sports Football HD UK
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/6204
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action HD UK" tvg-logo="https://i.imgur.com/DbuCbFv.png" group-title="Desporto",Sky Sports Action HD UK
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action HD UK" tvg-logo="https://i.imgur.com/8HiisJ9.png" group-title="Desporto",Sky Sports Action HD UK
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/333
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena HD UK" tvg-logo="https://i.imgur.com/QD0DFDs.png" group-title="Desporto",Sky Sports Arena HD UK
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/6201
@@ -33,82 +33,67 @@ http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/130193
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/112200
 #EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 2 FHD VIP SPORTS" tvg-logo="https://i.imgur.com/lcFIgzT.png" group-title="Sports",Now HK Premier Sports 2 FHD VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/112194
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 3 FHD VIP SPORTS" tvg-logo="https://i.imgur.com/bG7bNrm.png" group-title="Sports",Now HK Premier Sports 3 FHD VIP SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 3 FHD VIP SPORTS" tvg-logo="https://i.imgur.com/2pzehK1.png" group-title="Sports",Now HK Premier Sports 3 FHD VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/112199
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 4 FHD VIP SPORTS" tvg-logo="" group-title="Sports",Now HK Premier Sports 4 FHD VIP SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 4 FHD VIP SPORTS" tvg-logo="https://i.imgur.com/bG7bNrm.png" group-title="Sports",Now HK Premier Sports 4 FHD VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/112198
 #EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 5 FHD VIP SPORTS" tvg-logo="https://i.imgur.com/DDv19vB.png" group-title="Sports",Now HK Premier Sports 5 FHD VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/112197
 #EXTINF:-1 tvg-id="" tvg-name="NOVA SPORTS 1 HD GR VIP SPORTS" tvg-logo="https://i.imgur.com/uLcDgOH.jpeg" group-title="Sports",NOVA SPORTS 1 HD GR VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/23146
-#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORTS 3 HD GR VIP SPORTS" tvg-logo="" group-title="Sports",NOVA SPORTS 3 HD GR VIP SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORTS 2 HD GR VIP SPORTS" tvg-logo="https://i.imgur.com/mCXGkv5.jpeg" group-title="Sports",Nova Sport 2 FHD SK VIP SPORTS
+http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/110031
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORTS 3 HD GR VIP SPORTS" tvg-logo="https://i.imgur.com/zzRj4FY.jpeg" group-title="Sports",NOVA SPORTS 3 HD GR VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/82807
-#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORTS 4 HD GR VIP SPORTS" tvg-logo="https://i.imgur.com/bG7bNrm.pnghttps://i.imgur.com/bG7bNrm.pnghttps://i.imgur.com/bG7bNrm.pnghttps://i.imgur.com/bG7bNrm.png" group-title="Sports",NOVA SPORTS 4 HD GR VIP SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORTS 4 HD GR VIP SPORTS" tvg-logo="https://i.imgur.com/tiLjcoi.jpeg" group-title="Sports",NOVA SPORTS 4 HD GR VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/82808
-#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORTS 5 HD GR VIP SPORTS" tvg-logo="https://i.imgur.com/DDv19vB.png" group-title="Sports",NOVA SPORTS 5 HD GR VIP SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORTS 5 HD GR VIP SPORTS" tvg-logo="https://i.imgur.com/I5GE3F2.jpeg" group-title="Sports",NOVA SPORTS 5 HD GR VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/82809
-#EXTINF:-1 tvg-id="" tvg-name="Optus 1 VIP SPORTS" tvg-logo="" group-title="Sports",Optus 1 VIP SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="Optus 1 VIP SPORTS" tvg-logo="https://i.imgur.com/ht1ZU6Y.jpeg" group-title="Sports",Optus 1 VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/112193
-#EXTINF:-1 tvg-id="" tvg-name="Optus 2 VIP SPORTS" tvg-logo="" group-title="Sports",Optus 2 VIP SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="Optus 2 VIP SPORTS" tvg-logo="https://i.imgur.com/XO27JO1.jpeg" group-title="Sports",Optus 2 VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/112192
-#EXTINF:-1 tvg-id="" tvg-name="Optus 3 VIP SPORTS" tvg-logo="" group-title="Sports",Optus 3 VIP SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="Optus 3 VIP SPORTS" tvg-logo="https://i.imgur.com/CbQGOuS.jpeg" group-title="Sports",Optus 3 VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/112191
-#EXTINF:-1 tvg-id="" tvg-name="Optus 4 VIP SPORTS" tvg-logo="" group-title="Sports",Optus 4 VIP SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="Optus 4 VIP SPORTS" tvg-logo="https://i.imgur.com/2x7l7r2.jpeg" group-title="Sports",Optus 4 VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/112190
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="Desporto",DAZN 1 HD
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/332
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="Desporto",DAZN 2 HD
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/333
-#EXTINF:-1,DAZN LaLiga ES
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga ES" tvg-logo="https://i.imgur.com/zcHT4w4.png" group-title="Sports",DAZN LaLiga ES
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/124616
-#EXTINF:-1,Nova Sport 1 FHD SK VIP SPORTS
-http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/110030
-#EXTINF:-1,Nova Sport 2 FHD SK VIP SPORTS
-http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/110031
-#EXTINF:-1,Nova Sport 3 FHD SK VIP SPORTS
-http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/110032
-#EXTINF:-1,Nova Sport 4 FHD SK VIP SPORTS
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 1
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://i.imgur.com/KZQQ1T6.png" group-title="Desporto",ELEVEN SPORTS 1
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/103
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 2
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://i.imgur.com/0pk4PjC.png" group-title="Desporto",ELEVEN SPORTS 2
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/104
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 3
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://i.imgur.com/TOTInhZ.png" group-title="Desporto",ELEVEN SPORTS 3
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/121
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 4
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="ELEVEN SPORTS 4" tvg-logo="https://i.imgur.com/vs9hUTH.png" group-title="Desporto",ELEVEN SPORTS 4
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/116
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 5
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="ELEVEN SPORTS 5" tvg-logo="https://i.imgur.com/dsBQrPj.png" group-title="Desporto",ELEVEN SPORTS 5
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/112
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 6
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="ELEVEN SPORTS 6" tvg-logo="https://i.imgur.com/IWYuZhq.png" group-title="Desporto",ELEVEN SPORTS 6
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/123
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPORTV+" tvg-logo="" group-title="Desporto",SPORTV+
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPORTV+" tvg-logo="https://i.imgur.com/4hxon0V.png" group-title="Desporto",SPORTV+
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/144
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="" group-title="Desporto",SPORT TV 1
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/107
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 XTRA" tvg-logo="" group-title="Desporto",SPORT TV 1 XTRA
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/356
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="" group-title="Desporto",SPORT TV 2
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="https://i.imgur.com/BocfkW6.png" group-title="Desporto",SPORT TV 2
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/106
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 XTRA" tvg-logo="" group-title="Desporto",SPORT TV 2 XTRA
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/389
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="" group-title="Desporto",SPORT TV 3
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV 3" tvg-logo="https://i.imgur.com/BMiXKwx.png" group-title="Desporto",SPORT TV 3
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/90
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="" group-title="Desporto",SPORT TV 4
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV 4" tvg-logo="https://i.imgur.com/TIThZ1K.png" group-title="Desporto",SPORT TV 4
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/114
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="" group-title="Desporto",SPORT TV 5
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV 5" tvg-logo="https://i.imgur.com/CLZkoez.png" group-title="Desporto",SPORT TV 5
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/125
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 XTRA" tvg-logo="" group-title="Desporto",SPORT TV 5 XTRA
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/710
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="" group-title="Desporto",SPORT TV 6
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPORT TV 6" tvg-logo="https://i.imgur.com/4jwAEyz.png" group-title="Desporto",SPORT TV 6
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/124
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 7" tvg-logo="" group-title="Desporto",SPORT TV 7
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 7" tvg-logo="https://i.imgur.com/H8648bz.png" group-title="Desporto",SPORT TV 7
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/641
 #EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="SPORT TV NBA" tvg-logo="" group-title="Desporto",SPORT TV NBA
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/195
-#EXTINF:-1 tvg-id="" tvg-name="FUTEBOL TV" tvg-logo="" group-title="Desporto",FUTEBOL TV
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/831
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT MÁXIMO 1" tvg-logo="" group-title="Desporto",SUPERSPORT MÁXIMO 1
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/679
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/619
 #EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="" group-title="Desporto",GOL TV
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/727
