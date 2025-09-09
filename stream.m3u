@@ -58,9 +58,9 @@ http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/112191
 #EXTINF:-1 tvg-id="" tvg-name="Optus 4 VIP SPORTS" tvg-logo="https://i.imgur.com/2x7l7r2.jpeg" group-title="Sports",Optus 4 VIP SPORTS
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/112190
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="Desporto",DAZN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://i.imgur.com/huZUkCs.png" group-title="Desporto",DAZN 1 HD
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/332
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="Desporto",DAZN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://i.imgur.com/7mVdk2z.png" group-title="Desporto",DAZN 2 HD
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/333
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga ES" tvg-logo="https://i.imgur.com/zcHT4w4.png" group-title="Sports",DAZN LaLiga ES
 http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/124616
@@ -78,7 +78,7 @@ http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/112
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/123
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPORTV+" tvg-logo="https://i.imgur.com/4hxon0V.png" group-title="Desporto",SPORTV+
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/144
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="" group-title="Desporto",SPORT TV 1
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="SPORT TV 1" tvg-logo="https://i.imgur.com/seFQchp.png" group-title="Desporto",SPORT TV 1
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/107
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="SPORT TV 2" tvg-logo="https://i.imgur.com/BocfkW6.png" group-title="Desporto",SPORT TV 2
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/106
@@ -92,47 +92,36 @@ http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/125
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/124
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 7" tvg-logo="https://i.imgur.com/H8648bz.png" group-title="Desporto",SPORT TV 7
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/641
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="SPORT TV NBA" tvg-logo="" group-title="Desporto",SPORT TV NBA
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="SPORT TV NBA" tvg-logo="https://i.imgur.com/1pG4YlC.png" group-title="Desporto",SPORT TV NBA
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/195
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/619
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="" group-title="Desporto",GOL TV
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/727
-#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="EUROSPORT 1" tvg-logo="" group-title="Desporto",EUROSPORT 1
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-name="EUROSPORT 1" tvg-logo="https://i.imgur.com/9rdfWuP.png" group-title="Desporto",EUROSPORT 1
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/91
-#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="EUROSPORT 2" tvg-logo="" group-title="Desporto",EUROSPORT 2
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-name="EUROSPORT 2" tvg-logo="https://i.imgur.com/Ug2JVd3.png" group-title="Desporto",EUROSPORT 2
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/198
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FR" tvg-logo="" group-title="Desporto",EUROSPORT 1 FR
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/603
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 FR" tvg-logo="" group-title="Desporto",EUROSPORT 2 FR
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/604
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 ES" tvg-logo="" group-title="Desporto",EUROSPORT 1 ES
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/601
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 ES" tvg-logo="" group-title="Desporto",EUROSPORT 2 ES
-http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/602
-#EXTINF:-1 tvg-id="" tvg-name="[AF] S LaLiga FHD" tvg-logo="https://i.imgur.com/a6fMuux.png" group-title="SUPERSPORTS [AF]",[AF] S LaLiga FHD
+#EXTINF:-1 tvg-id="" tvg-name="[AF] S LaLiga FHD" tvg-logo="https://i.imgur.com/1Dn94wC.png" group-title="SUPERSPORTS [AF]",[AF] S LaLiga FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86861
-#EXTINF:-1 tvg-id="" tvg-name="[AF] S PSL FHD" tvg-logo="https://i.imgur.com/OEiUaMN.png" group-title="SUPERSPORTS [AF]",[AF] S PSL FHD
+#EXTINF:-1 tvg-id="" tvg-name="[AF] S PSL FHD" tvg-logo="https://i.imgur.com/gc1lFrb.png" group-title="SUPERSPORTS [AF]",[AF] S PSL FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86862
 #EXTINF:-1 tvg-id="" tvg-name="[AF] S Premier League FHD" tvg-logo="https://i.imgur.com/Gn5aKKu.png" group-title="SUPERSPORTS [AF]",[AF] S Premier League FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86863
 #EXTINF:-1 tvg-id="" tvg-name="[AF] S Grandstand FHD" tvg-logo="https://i.imgur.com/5qSZ65E.png" group-title="SUPERSPORTS [AF]",[AF] S Grandstand FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86864
-#EXTINF:-1 tvg-id="" tvg-name="[AF] S Variety 1 FHD" tvg-logo="https://i.imgur.com/je8IHg2.png" group-title="SUPERSPORTS [AF]",[AF] S Variety 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="[AF] S Variety 1 FHD" tvg-logo="https://i.imgur.com/w4GC3Dp.png" group-title="SUPERSPORTS [AF]",[AF] S Variety 1 FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86865
-#EXTINF:-1 tvg-id="" tvg-name="[AF] S Variety 2 FHD" tvg-logo="https://i.imgur.com/qx9nJ0b.png" group-title="SUPERSPORTS [AF]",[AF] S Variety 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="[AF] S Variety 2 FHD" tvg-logo="https://i.imgur.com/TPFR3WF.png" group-title="SUPERSPORTS [AF]",[AF] S Variety 2 FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86866
 #EXTINF:-1 tvg-id="" tvg-name="[AF] S Variety 3 FHD" tvg-logo="https://i.imgur.com/n6LJif9.png" group-title="SUPERSPORTS [AF]",[AF] S Variety 3 FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86867
 #EXTINF:-1 tvg-id="" tvg-name="[AF] S Variety 4 FHD" tvg-logo="https://i.imgur.com/GSBsY4g.png" group-title="SUPERSPORTS [AF]",[AF] S Variety 4 FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86868
-#EXTINF:-1 tvg-id="" tvg-name="[AF] S Football FHD" tvg-logo="https://i.imgur.com/Xi9c7HC.png" group-title="SUPERSPORTS [AF]",[AF] S Football FHD
+#EXTINF:-1 tvg-id="" tvg-name="[AF] S Football FHD" tvg-logo="https://i.imgur.com/XSwmvMe.png" group-title="SUPERSPORTS [AF]",[AF] S Football FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86869
 #EXTINF:-1 tvg-id="" tvg-name="[AF] S Action FHD" tvg-logo="https://i.imgur.com/7CX85vM.png" group-title="SUPERSPORTS [AF]",[AF] S Action FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86870
 #EXTINF:-1 tvg-id="" tvg-name="[AF] S Blitz FHD" tvg-logo="https://i.imgur.com/ChdHgrD.png" group-title="SUPERSPORTS [AF]",[AF] S Blitz FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86873
-#EXTINF:-1 tvg-id="" tvg-name="[AF] S Máximo 1 FHD" tvg-logo="https://i.imgur.com/ZGBNEv0.png" group-title="SUPERSPORTS [AF]",[AF] S Máximo 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="[AF] S Máximo 1 FHD" tvg-logo="https://i.imgur.com/NEhD6ii.png" group-title="SUPERSPORTS [AF]",[AF] S Máximo 1 FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86874
-#EXTINF:-1 tvg-id="" tvg-name="[AF] S WWE FHD" tvg-logo="https://i.imgur.com/XSwmvMe.png" group-title="SUPERSPORTS [AF]",[AF] S WWE FHD
+#EXTINF:-1 tvg-id="" tvg-name="[AF] S WWE FHD" tvg-logo="https://i.imgur.com/ykoDigx.png" group-title="SUPERSPORTS [AF]",[AF] S WWE FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86878
 #EXT
