@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK| LALIGA TV HD" tvg-logo="https://i.imgur.com/UOGFzY5.png" group-title="EU | UK SPORT",UK| LALIGA TV HD
+http://ewekshq.mhubery.xyz:80/4244133397/9741909780/191145
 #EXTINF:-1 tvg-id="" tvg-name="[AF] S LaLiga FHD" tvg-logo="https://i.imgur.com/a6fMuux.png" group-title="SUPERSPORTS [AF]",[AF] S LaLiga FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86861
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://i.imgur.com/seFQchp.png" group-title="Desporto",ELEVEN SPORTS 1
@@ -11,4 +13,6 @@ http://supersonictv.live:8080/Marvin123/Marvin123/22222
 http://supersonictv.live:8080/Marvin123/Marvin123/86869
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 FR" tvg-logo="https://i.imgur.com/nWjKZ9c.png" group-title="Desporto",BEIN SPORT 1 FR
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/305
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="BR| ESPN BRASIL HD" tvg-logo="https://lo1.in/BR/espbrs.png" group-title="AM | BRAZIL HD",BR| ESPN BRASIL HD
+http://ewekshq.mhubery.xyz:80/4244133397/9741909780/162359
 #EXT
