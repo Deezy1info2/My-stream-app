@@ -1,8 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football HD UK" tvg-logo="https://cdn.ratingbet.com/ratingbet/20250912/326ac79432479687e53cbe149c5174946c88e495cd0e2f19903f68e128f6877c-550-345.jpg" group-title="Desporto",Sky Sports Football HD UK
-http://95.214.235.18:8080/Jh98YLp7VK/lrdxqREGzb/6204
-#EXTINF:-1 tvg-id="" tvg-name="[AF] S Football FHD" tvg-logo="https://cdn.ratingbet.com/ratingbet/20250912/a371b5073215b33c99b4c62077e550eb3d9d2431d9890e153380052b776d708d-550-345.jpg" group-title="SUPERSPORTS [AF]",[AF] S Football FHD
+#EXTINF:-1 tvg-id="" tvg-name="[AF] S LaLiga FHD" tvg-logo="https://i.imgur.com/a6fMuux.png" group-title="SUPERSPORTS [AF]",[AF] S LaLiga FHD
+http://supersonictv.live:8080/Marvin123/Marvin123/86861
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://i.imgur.com/seFQchp.png" group-title="Desporto",ELEVEN SPORTS 1
+http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/103
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://i.imgur.com/fjrwkqw.png" group-title="Desporto",TNT SPORTS 1
+http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/317
+#EXTINF:-1 tvg-id="" tvg-name="USA ESPN Deportes UHD" tvg-logo="https://i.imgur.com/enjiTSK.png" group-title="ESPN & BEIN SPORTS",USA ESPN Deportes UHD
+http://supersonictv.live:8080/Marvin123/Marvin123/22222
+#EXTINF:-1 tvg-id="" tvg-name="[AF] S Football FHD" tvg-logo="https://i.imgur.com/XSwmvMe.png" group-title="SUPERSPORTS [AF]",[AF] S Football FHD
 http://supersonictv.live:8080/Marvin123/Marvin123/86869
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 FR" tvg-logo="https://cdn.ratingbet.com/ratingbet/20250912/f452572f1f274489cdfe1b107edebcd77f6de220ce1f37dff2ba39947d4847fd-550-345.jpg" group-title="Desporto",BEIN SPORT 1 FR
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1 FR" tvg-logo="https://i.imgur.com/nWjKZ9c.png" group-title="Desporto",BEIN SPORT 1 FR
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/305
 #EXT
