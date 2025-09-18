@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/Deezy1info2/tv-logos.html/refs/heads/main/eleven1.png" group-title="Desporto",ELEVEN SPORTS 1
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/103
+#EXTINF:-1 tvg-id="" tvg-name="[AF] S Variety 3 FHD" tvg-logo="https://raw.githubusercontent.com/Deezy1info2/tv-logos.html/refs/heads/main/variety3.png" group-title="SUPERSPORTS [AF]",[AF] S Variety 3 FHD
+http://supersonictv.live:8080/Marvin123/Marvin123/86867
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1" tvg-logo="https://raw.githubusercontent.com/Deezy1info2/tv-logos.html/refs/heads/main/tnt1.png" group-title="Desporto",TNT SPORTS 1
 http://free4all.telegtv.xyz:25461/psergueiru/satsharingskype/317
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="https://raw.githubusercontent.com/Deezy1info2/tv-logos.html/refs/heads/main/tnt2.png" group-title="Desporto",TNT SPORTS 2
